@@ -16,3 +16,6 @@ managed:
   override:
     - file_option: go_package_prefix
       value: github.com/bufbuild/buf-examples/bsr/quickstart/server/gen
+  disable:
+    - file_option: go_package
+      module: buf.build/bufbuild/protovalidate

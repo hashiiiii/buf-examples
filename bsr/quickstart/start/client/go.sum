@@ -1,0 +1,14 @@
+buf.build/gen/go/aquarium/common/protocolbuffers/go v1.36.11-20260129015210-58039600ab3e.1 h1:RJ2Yqz66WFGxJ/ZpClOQ7R0e16vHJ+ClLxdJ9Q+Lu8U=
+buf.build/gen/go/aquarium/common/protocolbuffers/go v1.36.11-20260129015210-58039600ab3e.1/go.mod h1:x5GPKChADrXZwOTDS/qOsUsVrCajkrc6a/28qBExPfM=
+buf.build/gen/go/aquarium/invoice/connectrpc/gosimple v1.19.1-20260129020012-08e19ed5c664.2 h1:EWpM/bzu3vyXqvSppY1XYoGAjZOk83XErnbGZ2A6/QA=
+buf.build/gen/go/aquarium/invoice/connectrpc/gosimple v1.19.1-20260129020012-08e19ed5c664.2/go.mod h1:QIv5OoSjiLWK7BwcwtBuuw279e//Zf1f+sqPYWjLZg0=
+buf.build/gen/go/aquarium/invoice/protocolbuffers/go v1.36.11-20260129020012-08e19ed5c664.1 h1:Uj5aynmFhE1JrH+gNddHpGdRYmbVWL3r/FRJyERDyRs=
+buf.build/gen/go/aquarium/invoice/protocolbuffers/go v1.36.11-20260129020012-08e19ed5c664.1/go.mod h1:vP7S5HOuz7OT4t8Wh2fYa9fl0il4afaa6AsTrhbsP/Q=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1 h1:j9yeqTWEFrtimt8Nng2MIeRrpoCvQzM9/g25XTvqUGg=
+buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20251209175733-2a1774d88802.1/go.mod h1:tvtbpgaVXZX4g6Pn+AnzFycuRK3MOz5HJfEGeEllXYM=
+connectrpc.com/connect v1.19.1 h1:R5M57z05+90EfEvCY1b7hBxDVOUl45PrtXtAV2fOC14=
+connectrpc.com/connect v1.19.1/go.mod h1:tN20fjdGlewnSFeZxLKb0xwIZ6ozc3OQs2hTXy4du9w=
+github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
+github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
+google.golang.org/protobuf v1.36.11 h1:fV6ZwhNocDyBLK0dj+fg8ektcVegBBuEolpbTQyBNVE=
+google.golang.org/protobuf v1.36.11/go.mod h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco=

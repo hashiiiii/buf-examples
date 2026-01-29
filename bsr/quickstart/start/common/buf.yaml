@@ -2,10 +2,7 @@
 version: v2
 modules:
   - path: proto
-    name: buf.build/aquarium/invoice
-deps:
-  - buf.build/aquarium/common
-  - buf.build/bufbuild/protovalidate
+    name: buf.build/aquarium/common
 lint:
   use:
     - STANDARD
